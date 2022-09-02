@@ -1,3 +1,6 @@
+A SIMPLE CHAT APP UI THAT USES SOCKET.IO TO PASS DATA FROM SERVER TO CLIENT IN REAL TIME.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
